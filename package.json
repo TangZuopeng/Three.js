@@ -16,7 +16,7 @@
     "exports-loader": "^0.7.0",
     "imports-loader": "^0.8.0",
     "obj-mtl-loader": "0.0.5",
-    "three": "^0.96.0",
+    "three": "^0.137.0",
     "three-css2drender": "^1.0.0",
     "three-mtl-loader": "^1.0.2",
     "three-obj-loader": "^1.1.3",
